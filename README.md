@@ -48,7 +48,7 @@
 
 ## 🔥 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0f172a&color=D4AF37&line=D4AF37&point=ffffff&hide_border=true" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=TaimyaShabbir&bg_color=0f172a&color=D4AF37&line=D4AF37&point=ffffff&hide_border=true" />
 </p>
 
 ---
